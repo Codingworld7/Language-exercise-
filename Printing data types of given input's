@@ -1,0 +1,6 @@
+x=int(7)
+y=str('seven')
+z=float(7)
+print(x)
+print(y)
+print(z)
