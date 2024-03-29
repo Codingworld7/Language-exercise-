@@ -1,0 +1,6 @@
+x=7
+y='seven'
+z=7.50
+print(type(x))
+print(type(y))
+print(type(z))
