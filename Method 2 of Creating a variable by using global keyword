@@ -3,3 +3,11 @@ def myfun():
     global A
     print("life is "+A)
 myfun()
+#second method 
+def myfunc():
+  global x
+  x = "fantastic"
+
+myfunc()
+
+print("Python is " + x)
