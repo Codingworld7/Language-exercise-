@@ -1,0 +1,5 @@
+A="exploration"
+def myfun():
+    global A
+    print("life is "+A)
+myfun()
