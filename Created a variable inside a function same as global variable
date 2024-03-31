@@ -1,0 +1,6 @@
+A="beautiful"
+def myfun():
+  A="exploration"
+  print("life is "+A)
+myfun():
+print("life is "+A)
