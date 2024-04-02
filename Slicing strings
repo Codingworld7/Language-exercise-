@@ -9,4 +9,7 @@ print(a[:6]
 A="happy world"
 print(A[0:])
 #output: happy world
+#slicing with negative indexes
+a="happy world"
+print(a[-11:-5])
 
