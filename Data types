@@ -1,0 +1,7 @@
+#changing data type
+x=5
+print(float(x))
+#finding data type by suing type keyword 
+x=5
+print(type(x))
+#note:here strings cannot change into numeric forms 
