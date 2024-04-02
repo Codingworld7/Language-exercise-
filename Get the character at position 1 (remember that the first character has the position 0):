@@ -15,3 +15,11 @@ txt="the people who are living in this world are so cruel."
 print("free" in txt )
 #output
 false 
+#use in keyword in if statement
+txt="Do your best and that best will give u a best result "
+if "dont" in txt:
+    print("yes")
+else:
+    print("no")
+#output
+no
