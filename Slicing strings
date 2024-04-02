@@ -1,6 +1,12 @@
-#note: The syntax of slicing is you have to initiate the start position value and end position value with colon in square brackets 
+#note: The syntax of slicing is you have to initiate the start position value and end position value with colon in square brackets
+#slice to the start 
 a="happy world"
 print(a[0:2])
 #by leaving out starting index ,the character starts from the first letter of a string 
 a="happy world"
 print(a[:6]
+#slice to the end 
+A="happy world"
+print(A[0:])
+#output: happy world
+
