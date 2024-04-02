@@ -5,3 +5,13 @@ print(a[1])
 #by using len() function we can find the length of a string 
 a = "Hello, World!"
 print(len(a))
+#find a word if that exist in the given text
+txt="the people who are living in this world are so cruel."
+print("people" in txt )
+#output
+true.
+#2nd example 
+txt="the people who are living in this world are so cruel."
+print("free" in txt )
+#output
+false 
