@@ -1,0 +1,8 @@
+a="hello"
+b="world"
+c=a+b
+print(c)
+#if we want to have space in between two strings 
+then just add 
+#from the above example 
+c=a+" "+b
