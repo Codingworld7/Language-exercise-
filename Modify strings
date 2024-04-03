@@ -9,3 +9,17 @@ a="   hello world   "
 print(a.strip())
 #output
 hello world 
+
+
+#replace a string 
+a="just take a deep breath"
+print(a.replace("just","slowly"))
+#output
+slowly take a deep breath 
+
+
+#split()
+a="just take a deep breath"
+print(a.split(","))
+#output 
+it gives square brackets to the text 
