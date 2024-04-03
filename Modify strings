@@ -1,0 +1,3 @@
+#upper case() method 
+text="Python has a set of built-in methods that you can use on strings."
+print(text.upper())
