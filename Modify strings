@@ -2,3 +2,10 @@
 text="Python has a set of built-in methods that you can use on strings."
 print(text.upper())
 print(text.lower())
+
+
+#strip() is used to remove whitespaces in a text or in a sentence 
+a="   hello world   "
+print(a.strip())
+#output
+hello world 
