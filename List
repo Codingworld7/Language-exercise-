@@ -1,0 +1,2 @@
+thislist=["Doraemon ","nobitha","shizuka","gian","suneo"]
+print(thislist[:5])
