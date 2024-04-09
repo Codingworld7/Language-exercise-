@@ -5,3 +5,10 @@ Note: The search will start at index 2 (included) and end at index 5 (not includ
 Remember that the first item has index 0.
 note:By leaving out the end value, the range will go on to the end of the list:
 print(thislist[:6]
+example2:
+thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+print(thislist[2:])
+
+#This will return the items from index 2 to the end.
+
+#Remember that index 0 is the first item, and index 2 is the third
