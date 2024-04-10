@@ -2,3 +2,11 @@ list1=["dog","cat","goat","cow"]
 list2=["monkey","donkey","horse"]
 list1.extend(list2)
 print(list1)
+
+#extend method can replace anything like (set,tuples,list,dictionaries)
+thislist = ["apple", "banana", "cherry"]
+thistuple = ("kiwi", "orange")
+
+thislist.extend(thistuple)
+
+print(thislist) 
