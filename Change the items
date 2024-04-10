@@ -1,0 +1,8 @@
+#changing the items with index numbers.
+list=["stars","moon","sun","earth","galaxy"]
+list[0:3]="nature","solar system","meteroids"
+print(list)
+#change the items 
+list=["stars","moon","sun","earth","galaxy"]
+list[1]="nature"
+print(list)
