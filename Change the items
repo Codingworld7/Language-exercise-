@@ -6,3 +6,9 @@ print(list)
 list=["stars","moon","sun","earth","galaxy"]
 list[1]="nature"
 print(list)
+
+#the other items will move and the items will add in between them 
+example:
+list=["stars","moon","sun","earth","galaxy"]
+list[0:2]=["nature","solar system","meteroids"]
+print(list)
