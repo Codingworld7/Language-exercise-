@@ -1,0 +1,5 @@
+list=["dog","cat","goat","cow"]
+list.append("sheep")
+print(list)
+#output:
+["dog","cat","goat","cow","sheep"]
