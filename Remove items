@@ -1,0 +1,3 @@
+list=["cat","dog","cow","sheep"]
+list.remove(list[0])
+print(list)
