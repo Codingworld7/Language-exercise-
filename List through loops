@@ -9,3 +9,8 @@ while i<len(thislist):
   print(thislist)
   i=i+1
 
+#list comprehension 
+thislist = ["apple", "banana", "cherry"]
+[print(x) for x in thislist]
+
+
