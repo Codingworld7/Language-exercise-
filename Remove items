@@ -1,9 +1,19 @@
-list=["cat","dog","cow","sheep"]
-list.remove(list[0])
-print(list)
-
+list=["cat","dog","mouse","parrot","sheep"]
+list.pop(3)
+print (list)
 
 #example 2: by using POP METHOD( )
 list=["cat","dog","mouse","parrot","sheep"]
 list.pop(3)
+print (list)
+
+#example3: del keyword
+list=["cat","dog","mouse","parrot","sheep"]
+del list
+print (list)
+
+example4: clear keyword
+
+list=["cat","dog","mouse","parrot","sheep"]
+list.clear()
 print (list)
