@@ -1,3 +1,9 @@
 list=["cat","dog","cow","sheep"]
 list.remove(list[0])
 print(list)
+
+
+#example 2: by using POP METHOD( )
+list=["cat","dog","mouse","parrot","sheep"]
+list.pop(3)
+print (list)
