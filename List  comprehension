@@ -6,3 +6,10 @@ for x in list1:
 print(list2)
 #output
 [jin,jimin,yoongi]
+
+#you can write this condition in one line code 
+list1=["dream","shine","smile"]
+newlist=[x for x in list1 if 'm' in x]
+print(newlist)
+#output
+smile,dream
