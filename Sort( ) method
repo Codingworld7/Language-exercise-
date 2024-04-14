@@ -1,0 +1,4 @@
+#sort( ) method 
+list=["moon","milk","man","menu"]
+list.sort()
+print(list)
