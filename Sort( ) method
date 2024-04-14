@@ -1,4 +1,8 @@
 #sort( ) method 
-list=["moon","milk","man","menu"]
+list=["stars","galaxy","sun","moon"]
 list.sort()
+print(list)
+ #for descending order we use reverse= True argument
+list=[9,35,13,19,30,100]
+list.sort(reverse= True)
 print(list)
