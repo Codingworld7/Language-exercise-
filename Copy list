@@ -1,0 +1,3 @@
+list=["star","moon","galaxy"]
+mylist=list.copy()
+print(mylist)
