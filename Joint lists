@@ -1,0 +1,17 @@
+#adding two lists by using append function 
+list1=["happy","smile","dream"]
+list2=[1,2,3]
+for x in list2:
+    list1.append(x)
+print(list1)
+
+#by adding two list 
+list1=["happy","smile","dream"]
+list2=[1,2,3]
+print(list1+list2)
+
+#by using extend () function
+list1=["happy","smile","dream"]
+list2=[1,2,3]
+list1.extend(list2)
+print(list1)
