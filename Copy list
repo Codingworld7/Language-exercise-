@@ -1,3 +1,11 @@
+#using copy() method
 list=["star","moon","galaxy"]
 mylist=list.copy()
 print(mylist)
+
+#another way to copy a list into another list by using list ()
+list1=["star","moon","galaxy"]
+mylist=list(list1)
+print(mylist)
+output:
+it will copy the list1 items into mylist
