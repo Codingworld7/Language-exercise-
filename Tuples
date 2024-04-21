@@ -18,3 +18,11 @@ tuple+= x
 print(tuple)
 
 #note:while adding a item to a tuple ,remember to add a comma end of the string 
+
+
+#converting half tuple items into list
+mytuple=("apple","mango","berry","cherry","orange")
+(red, green,*white)=mytuple
+print(red)
+print(green)
+print(*white)
