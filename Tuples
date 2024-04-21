@@ -17,6 +17,7 @@ x=("grapes",)
 tuple+= x
 print(tuple)
 
+
 #note:while adding a item to a tuple ,remember to add a comma end of the string 
 
 
@@ -26,3 +27,8 @@ mytuple=("apple","mango","berry","cherry","orange")
 print(red)
 print(green)
 print(*white)
+
+#print the length of the tuple items
+tuple=("apple","mango","cherry")
+for x in range(len(tuple)):
+    print(tuple[x])
