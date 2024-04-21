@@ -10,3 +10,9 @@ x=["apple","orange","kiwi","grapes"]
 list2=list(x)
 list2.append("mango")
 print(tuple(list2))
+
+#adding items to a tuple 
+tuple =("kiwi","apple","mango")
+x=("grapes",) 
+tuple+= x
+print(tuple)
