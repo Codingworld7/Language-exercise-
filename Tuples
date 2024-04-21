@@ -3,3 +3,10 @@ x=["set","tuple","dictionary","array"]
 y=list(x)
 y[2]="functions"
 print(tuple(x))
+
+
+#adding items to a list and converts it into tuple
+x=["apple","orange","kiwi","grapes"]
+list2=list(x)
+list2.append("mango")
+print(tuple(list2))
