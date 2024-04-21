@@ -16,3 +16,5 @@ tuple =("kiwi","apple","mango")
 x=("grapes",) 
 tuple+= x
 print(tuple)
+
+#note:while adding a item to a tuple ,remember to add a comma end of the string 
