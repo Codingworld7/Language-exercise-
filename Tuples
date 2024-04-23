@@ -32,3 +32,10 @@ print(*white)
 tuple=("apple","mango","cherry")
 for x in range(len(tuple)):
     print(tuple[x])
+
+#tuples by using while loop
+tuple1=("apple","mango","berry","watermelon")
+i=0
+while i < len(tuple1):
+    print(tuple1[i])
+    i=i+1
