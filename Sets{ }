@@ -8,3 +8,8 @@ print(set1)
 set1={"stars","moon","sun"}
 set1.remove("stars")
 print(set1)
+
+#removing items by using discard() method 
+set1={"stars","moon","sun"}
+set1.remove("stars")
+print(set1)
