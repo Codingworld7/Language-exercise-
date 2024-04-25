@@ -3,3 +3,8 @@ set1={"stars","moon","sun"}
 set2={"galaxy","shine","milkyway"}
 set1.update(set2)
 print(set1)
+
+#removing items by using remove()
+set1={"stars","moon","sun"}
+set1.remove("stars")
+print(set1)
