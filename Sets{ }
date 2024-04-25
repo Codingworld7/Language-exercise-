@@ -13,3 +13,12 @@ print(set1)
 set1={"stars","moon","sun"}
 set1.remove("stars")
 print(set1)
+
+#by using pop() method
+thisset = {"apple", "banana", "cherry"}
+
+x = thisset.pop()
+
+print(x) #removed item
+
+print(thisset) #the set after removal
