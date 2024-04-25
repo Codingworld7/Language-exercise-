@@ -4,3 +4,8 @@ while(i<len(text)):
     letter=text[i]
     print(letter,end=' ')
     i+=1
+
+
+text= "mississippi is in usa"
+for i in text:
+     print(i,end=' ')
