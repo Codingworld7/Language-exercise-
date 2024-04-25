@@ -1,0 +1,5 @@
+#accessing items to another set by using update keyword
+set1={"stars","moon","sun"}
+set2={"galaxy","shine","milkyway"}
+set1.update(set2)
+print(set1)
