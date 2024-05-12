@@ -1,0 +1,6 @@
+#intersection()
+set1={"a","b","c"}
+set2={"apple","bat","cat","a"}
+set3=set1.intersection(set2)
+print(set3)
+NOTE: INTERSECTION ()METHOD KEEPS ONLY DUPLICATE VALUES 
