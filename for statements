@@ -1,0 +1,4 @@
+#for statements 
+words=["shine","dream","smile"]
+for w in words:
+   print(w,len(w))
