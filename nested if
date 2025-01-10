@@ -1,0 +1,9 @@
+#NESTED IF 
+a=1
+b=2
+if a and b>=40:
+  print('greater than')
+  if a and b>=30:
+    print('also greater than')
+else:
+  print('is not greater than')
