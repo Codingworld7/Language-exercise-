@@ -1,0 +1,6 @@
+#continue statement
+a=["tom","jerry","mickey","minnie"]
+for x in a:
+  if x == "jerry":
+    continue
+  print(x)
