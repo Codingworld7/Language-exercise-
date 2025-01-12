@@ -1,0 +1,6 @@
+#looping the values in A and breaking the loop by using break statement
+a=["tom","jerry","mickey","minnie"]
+for x in a:
+  print(x)
+  if x == "jerry":
+    break
