@@ -1,3 +1,4 @@
+#print values in a by using for loop
 a=["tom","jerry","mickey","minnie"]
 for x in a:
   print(x)
