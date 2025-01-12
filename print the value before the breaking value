@@ -1,0 +1,6 @@
+#breaking the loop and print the value before the breaking value 
+a=["tom","jerry","mickey","minnie"]
+for x in a:
+  if x == "jerry":
+    break
+  print(x)
