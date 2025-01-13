@@ -1,0 +1,6 @@
+shape=["circle","big","round"]
+stars=["earth","sun","moon"]
+for x in colors:
+  for y in stars:
+    print(x)
+    print(y)
