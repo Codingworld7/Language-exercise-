@@ -1,0 +1,3 @@
+def my_function(*students):
+  print("smart student in the class is "+students[2])
+my_function("tom","henry","jack","neon")  
