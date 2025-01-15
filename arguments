@@ -1,0 +1,5 @@
+def my_function(fname):
+  print(fname+ "believe in yourself")
+my_function("you have to ")  
+
+#function with arguments
