@@ -1,0 +1,5 @@
+def my_function(fname):
+  print(fname +" "+ "shine")
+my_function("sun")
+my_function("star")
+my_function("moon")
