@@ -1,0 +1,8 @@
+#swapping two variables
+a=(input("enter a value"))
+b=(input("enter b value"))
+print("before swapping:",a)
+print("before swapping:",b)
+a,b=b,a
+print("after swapping:",a)
+print("after swapping:",b)
