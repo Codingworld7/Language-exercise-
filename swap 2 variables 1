@@ -1,0 +1,13 @@
+#swapping two variables by using functions
+def swap(x,y):
+    print("befor swapping",x)
+    print("before swapping",y)
+    x,y=y,x
+    return x,y 
+a=(input("enter  value"))
+b=(input("enter  value"))
+a,b=swap(a,b)
+print("after swapping",a)
+print("after swapping",b)
+  
+  
