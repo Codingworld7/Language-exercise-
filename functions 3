@@ -1,0 +1,5 @@
+def my_function(country="India"):
+  print("i am from" + country)
+my_function("Sweden")
+my_function("Italy")
+my_function("England")
