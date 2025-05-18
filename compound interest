@@ -1,0 +1,5 @@
+def compound_interest(principle,rate,time):
+    amount=principle*(pow((1+rate/100),time))
+    compound= amount-principle
+    print("compound interest is:",compound)
+compound_interest(20000,5,3)    
