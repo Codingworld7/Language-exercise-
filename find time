@@ -1,0 +1,8 @@
+hour=int(input("enter hr:"))
+print(hour)
+if(hour<12):
+    print("good morning")
+elif(hour<=18):
+    print("good afternoon")
+else:
+    print("good evening")
